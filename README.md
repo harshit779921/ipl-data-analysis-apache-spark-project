@@ -1,1 +1,1 @@
-# Ipl-data-analysis-apache-spark-project
+# IPL-data-analysis-apache-spark-project
